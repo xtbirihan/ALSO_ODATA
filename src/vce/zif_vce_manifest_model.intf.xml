@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_VCE_MANIFEST_MODEL</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Model Manifest Request</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>MANIF_REQUEST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Structure request data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TT_DETAILS_RESPONSE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table type details response data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TT_PACKAGES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table type packages data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TY_DETAILS_RESPONSE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Structure details response data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TY_PACKAGES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Structure packages data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TY_REQUEST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Structure request data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TY_RESPONSE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Structure response data</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

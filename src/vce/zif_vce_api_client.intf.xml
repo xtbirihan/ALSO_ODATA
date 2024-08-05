@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_VCE_API_CLIENT</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>VCE API client</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>BUILD_REQUEST_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Build the data for the request</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_RESPONSE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get the response of the request</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>PROCESS_RESPONSE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process the response of the request</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SEND_GET_REQUEST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Send get request</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SEND_POST_REQUEST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Send post request</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>SEND_POST_REQUEST</CMPNAME>
+     <SCONAME>EV_JSON</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>JSON string</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
